@@ -1,12 +1,4 @@
 {
-  "name": "Java Minimal Codespace",
-  "image": "mcr.microsoft.com/devcontainers/java:1-21-bookworm",
-  "overrideCommand": false,
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "redhat.java"
-      ]
-    }
-  }
+  "name": "Java 21 Minimal Codespace",
+  "image": "mcr.microsoft.com/devcontainers/java:1-21-bookworm"
 }
